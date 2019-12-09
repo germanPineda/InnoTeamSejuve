@@ -1,0 +1,7 @@
+http://localhost:8080/elbueno/index.php/Administrador_controller/getRoles
+http://localhost:8080/elbueno/index.php/Administrador_controller/getDependencia
+http://localhost:8080/elbueno/index.php/Administrador_controller/updateUser
+http://localhost:8080/elbueno/index.php/Administrador_controller/deleteuser
+http://localhost:8080/elbueno/index.php/Administrador_controller/insertuser?nombreReal=german&apellidoPaterno=pineda&apellidoMaterno=uc&correo=gapu@gmail.com&Password=12345&idTipoActor=1&idRol=2
+http://localhost:8080/elbueno/index.php/Administrador_controller/insertuser
+oQyBMUqKVjG35QXS administrador
